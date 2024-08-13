@@ -2,6 +2,9 @@ Methods
 Overview
 The goal of this lab was to implement the Quicksort algorithm to sort a list of cities based on various criteria, including alphabetical order, population, and latitude. The project also required the creation of a City class, accurate reading of input files, and the generation of multiple output files. Additionally, a dynamic visualization of the 50 most populous cities was to be included. Emphasis was placed on both the correctness of the algorithm implementations and the clarity and organization of the code.
 
+![Screenshot (78)](https://github.com/user-attachments/assets/d3383214-d0ef-4253-8ed5-c61b68f367e7)
+
+
 Process
 Partition Function:
 
