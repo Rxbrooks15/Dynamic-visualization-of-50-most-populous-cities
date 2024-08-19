@@ -2,7 +2,8 @@ Methods
 Overview
 The goal of this lab was to implement the Quicksort algorithm to sort a list of cities based on various criteria, including alphabetical order, population, and latitude. The project also required the creation of a City class, accurate reading of input files, and the generation of multiple output files. Additionally, a dynamic visualization of the 50 most populous cities was to be included. Emphasis was placed on both the correctness of the algorithm implementations and the clarity and organization of the code.
 
-![Screenshot (78)](https://github.com/user-attachments/assets/d3383214-d0ef-4253-8ed5-c61b68f367e7)
+
+<img width="800" alt="visualize_cities" src="https://github.com/user-attachments/assets/887a0a3d-c244-414d-9072-1de7469b8137">
 
 
 Process
@@ -12,6 +13,9 @@ The partition function was implemented as the core component of the Quicksort al
 Quicksort and Sort Functions:
 
 Building on the partition function, the Quicksort algorithm was implemented. This recursive function repeatedly applied the partition function to subarrays, ensuring that the entire list was sorted. Additionally, a sort function was created to handle the initial invocation of Quicksort and to sort the list based on different criteria, such as alphabetical order, population, and latitude.
+
+![Screenshot (78)](https://github.com/user-attachments/assets/d3383214-d0ef-4253-8ed5-c61b68f367e7)
+
 Comparison Functions:
 
 Comparison functions were developed to facilitate sorting based on different criteria. These functions were passed to the Quicksort algorithm to determine the order of elements. For example, one function compared city names alphabetically, while another compared cities based on their population or latitude.
